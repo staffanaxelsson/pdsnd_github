@@ -1,11 +1,22 @@
-### Date created
-Include the date you created this project and README file.
+### Date Created
+This project was created on *July 19, 2020.*
 
-### Project Title
-Replace the Project Title
+### Project Title 
+#### Bike Share Data #### 
+:bike:
 
 ### Description
-Describe what your project is about and what it does
+In this project, I explored bike share data for three major cities:                                                        
+
+* Chicago
+* New York City
+* Washington
+
+Based on this data, computations were performed to analyze:
+* Popular times of travel 
+* Popular stations and trip
+* Trip duration
+* User info
 
 ### Files used
 Include the files used
