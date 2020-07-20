@@ -37,4 +37,5 @@ Following pages were used as inspiration:
 
 * [Writing a readme: readme essentials by Thomas Bradley](https://www.youtube.com/watch?v=RZ5vduluea4)
 * [Mastering Markdown by GitHub](https://guides.github.com/features/mastering-markdown/)
+* [Reading a Friendly README by Rowan Manning](https://rowanmanning.com/posts/writing-a-friendly-readme/)
 
