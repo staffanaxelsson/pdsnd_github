@@ -19,7 +19,18 @@ Based on this data, computations were performed to analyze:
 * User info
 
 ### Files used
-Include the files used
+Files used for data computations were:
+
+* chicago.csv
+* new_york_city.csv
+* washington.csv
+
+These files were not committed to github for size reasons,
+but they can be found here:
+
+* [Chicago](https://www.divvybikes.com/system-data)
+* [New York City](https://www.citibikenyc.com/system-data)
+* [Washington](https://www.capitalbikeshare.com/system-data)
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
