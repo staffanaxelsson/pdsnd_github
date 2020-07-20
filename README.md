@@ -33,5 +33,8 @@ but they can be found here:
 * [Washington](https://www.capitalbikeshare.com/system-data)
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Following pages were used as inspiration:
+
+* [Writing a readme: readme essentials by Thomas Bradley](https://www.youtube.com/watch?v=RZ5vduluea4)
+* [Mastering Markdown by GitHub](https://guides.github.com/features/mastering-markdown/)
 
